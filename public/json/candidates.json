@@ -1,0 +1,74 @@
+{
+    "candidates":[
+        { 
+            "nameSurname":"John Doe",
+            "startDate":"new Date('2024-10-01')",
+            "endDate":"new Date('2024-10-15')",
+            "primarySkill":"ReactJS",
+            "secondarySkill":"NodeJS"
+        },
+        { 
+            "nameSurname":"Patric Smith",
+            "startDate":"new Date('2024-12-01')",
+            "endDate":"new Date('2024-12-10')",
+            "primarySkill":"Angular",
+            "secondarySkill":"Vue"
+        },
+        { 
+            "nameSurname":"Jane D'vil",
+            "startDate":"new Date('2024-09-11')",
+            "endDate":"new Date('2024-10-05')",
+            "primarySkill":"Java",
+            "secondarySkill":"C#"
+        },
+        { 
+            "nameSurname":"Fernando Hiero",
+            "startDate":"new Date('2024-11-08')",
+            "endDate":"new Date('2024-10-01')",
+            "primarySkill":"PHP",
+            "secondarySkill":"jQuery"
+        },
+        { 
+            "nameSurname":"Santi Casorla",
+            "startDate":"new Date('2024-01-10')",
+            "endDate":"new Date('2024-01-15')",
+            "primarySkill":"Pyton",
+            "secondarySkill":"Pascal"
+        },
+        { 
+            "nameSurname":"Valeri Karpin",
+            "startDate":"new Date('2024-09-01')",
+            "endDate":"new Date('2024-09-05')",
+            "primarySkill":"C++",
+            "secondarySkill":"Java"
+        },
+        { 
+            "nameSurname":"Joni Montana",
+            "startDate":"new Date('2024-11-11')",
+            "endDate":"new Date('2024-11-18')",
+            "primarySkill":"NextJS",
+            "secondarySkill":"PHP"
+        },
+        { 
+            "nameSurname":"Jasmin Deep",
+            "startDate":"new Date('2024-10-21')",
+            "endDate":"new Date('2024-10-25')",
+            "primarySkill":"JS",
+            "secondarySkill":"Pjton"
+        },
+        { 
+            "nameSurname":"Selena Sanches",
+            "startDate":"new Date('2024-09-09')",
+            "endDate":"new Date('2024-09-12')",
+            "primarySkill":"Angular",
+            "secondarySkill":"jQuery"
+        },
+        { 
+            "nameSurname":"Jecki Chan",
+            "startDate":"new Date('2024-10-24')",
+            "endDate":"new Date('2024-10-29')",
+            "primarySkill":"ReactJS",
+            "secondarySkill":"Java"
+        }
+    ]
+}

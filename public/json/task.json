@@ -1,0 +1,7 @@
+{
+    "name":"Develop New Feature",
+    "startDate":"new Date('2024-10-01')",
+    "endDate":"new Date('2024-12-05')",
+    "primarySkill":"ReactJS",
+    "secondarySkill":"NodeJs"
+}

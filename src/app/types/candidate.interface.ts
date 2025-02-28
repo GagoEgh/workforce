@@ -1,7 +1,7 @@
-export interface Worker{
+export interface Candidate{
     nameSurname:string,
-    startDate:string,
-    endDate:string,
+    startDate:Date,
+    endDate:Date,
     primarySkill:string,
     secondarySkill:string,
 }
