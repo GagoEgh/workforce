@@ -1,0 +1,22 @@
+<table class="workerTable">
+    <thead>
+        <tr class="tabletr">
+            <td>Name</td>
+            <td>Primary Skill</td>
+            <td>Secondary Skill</td>
+            <td>Start Date</td>
+            <td>End Date</td>
+        </tr>
+    </thead>
+    <tbody>
+        @for(candidate of candidates(); track candidate){
+            <tr [style.color]="getWorkerColor(candidate)" class="tabletr">
+                <td>{{candidate.nameSurname}}</td>
+                <td>{{candidate.primarySkill}}</td>
+                <td>{{candidate.secondarySkill}}</td>
+                <td>{{candidate.startDate}}</td>
+                <td>{{candidate.endDate}}</td>
+            </tr>
+        }
+    </tbody>
+</table>

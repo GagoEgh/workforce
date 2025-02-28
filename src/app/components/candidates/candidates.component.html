@@ -1,8 +1,5 @@
-<p>candidates works!</p>
-task:{{task()?.name}}
-
-<div>
-    @for(candidate of candidates(); track candidate){
-        <p>{{candidate.nameSurname}}</p>
-    }
+<div class="container">
+    <h1>Workforce</h1>
+    <app-worker-time-line [single]="single"></app-worker-time-line>
+    <app-worker-table [candidates]="candidates" [task]="task()"></app-worker-table>
 </div>

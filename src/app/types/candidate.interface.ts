@@ -1,7 +1,7 @@
 export interface CandidateInterface{
     nameSurname:string,
-    startDate:Date,
-    endDate:Date,
+    startDate:string,
+    endDate:string,
     primarySkill:string,
     secondarySkill:string,
 }

@@ -9,5 +9,4 @@ import { CandidatesComponent } from './components/candidates/candidates.componen
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'workforce';
 }
