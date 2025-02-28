@@ -1,0 +1,31 @@
+.workerTable{
+    border-collapse: collapse;
+    font-family: Tahoma, Geneva, sans-serif;
+    padding: 10px;
+
+    thead td {
+        background-color: #54585d;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 13px;
+        border: 1px solid #54585d;
+    }
+
+    .tabletr{
+        border-bottom: 1px solid;
+    }
+
+    tbody tr {
+        background-color: #f9fafb;
+        cursor: pointer;
+        
+        &:hover{
+            background-color: #ffffff;
+        }
+    }
+
+    td {
+        padding: 15px;
+    }
+
+}
