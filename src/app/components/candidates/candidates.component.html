@@ -1,1 +1,8 @@
 <p>candidates works!</p>
+task:{{task()?.name}}
+
+<div>
+    @for(candidate of candidates(); track candidate){
+        <p>{{candidate.nameSurname}}</p>
+    }
+</div>

@@ -1,4 +1,4 @@
-export interface Candidate{
+export interface CandidateInterface{
     nameSurname:string,
     startDate:Date,
     endDate:Date,
